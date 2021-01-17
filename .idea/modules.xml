@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Client/Client.iml" filepath="$PROJECT_DIR$/Client/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSPROJECT_icsd14151.iml" filepath="$PROJECT_DIR$/.idea/DSPROJECT_icsd14151.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MainServer/MainServer.iml" filepath="$PROJECT_DIR$/MainServer/MainServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Messages/Messages.iml" filepath="$PROJECT_DIR$/Messages/Messages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperationsServer/OperationsServer.iml" filepath="$PROJECT_DIR$/OperationsServer/OperationsServer.iml" />
+    </modules>
+  </component>
+</project>
